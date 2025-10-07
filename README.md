@@ -71,8 +71,8 @@ Preparação de dados para Machine Learning
 Trabalho com datasets reais
 
 📬 Contato
-[Seu nome]
+Isaque Carvalho Silva
 
-LinkedIn: [seu LinkedIn]
+LinkedIn: (https://www.linkedin.com/in/isaque-carvalho-silva-164554282/)
 
-GitHub: [seu GitHub]
+GitHub: (https://github.com/zzaakkaass/)
